@@ -1,0 +1,5 @@
+	Cheque
+Login is: user_test
+Current date of operation is: 14.11.2023 11:02:03
+Current balance is: 10860
+	Hope to see you one more time
